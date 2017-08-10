@@ -1,3 +1,5 @@
+# http://scikit-learn.org/stable/auto_examples/covariance/plot_outlier_detection.html#sphx-glr-auto-examples-covariance-plot-outlier-detection-py
+
 import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
